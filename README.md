@@ -25,21 +25,33 @@ This technique seems quite indirect but reduces the design complexity for most k
  - use FlashFirmware method to flash the required driver on the Arduino. (This step is required only the first time an Arduino is prepared for interfacing. The driver can also be uploaded using the ArduinoDotNet_Driver.ino file under Arduino IDE)
  - Start using the functions like digitalRead, analogue read etc. under the ArduinoDotNetInterface object.
 
-# Example
+# Example (C#)
 
-
-    ArduinoDotNet.ArduinoDotNetInterface arduino = new ArduinoDotNetInterface();
-    arduino.Open();
-    arduino.pinMode(2, true);
-    arduino.pinMode(Pins.A0, 0); // only arduino Mega
-    int i = arduino.analogRead(Pins.A0);
-    if (i > 500)
+    using ArduinoDotNet;
+    using System.Windows.Forms;
+    
+    namespace ArduinoDotNetTestApplication
     {
-        MessageBox.Show("The Value is greater than 500");
-        arduino.digitalWrite(2, true);
-    }
-    else
-        arduino.digitalWrite(2, false);
+        static class Program
+        {
+            [STAThread]
+            static void Main()
+            {
+                ArduinoDotNetInterface arduino = new ArduinoDotNetInterface();
+                arduino.Open();
+                arduino.pinMode(2, true);
+                arduino.pinMode(Pins.A0, 0); // only arduino Mega
+                int i = arduino.analogRead(Pins.A0);
+                if (i > 500)
+                {
+                    MessageBox.Show("The Value is greater than 500");
+                    arduino.digitalWrite(2, true);
+                }
+                else
+                    arduino.digitalWrite(2, false);
 
-    arduino.Close();
+                arduino.Close();
+            }
+        }
+    }
 
