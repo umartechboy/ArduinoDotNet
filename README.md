@@ -1,6 +1,6 @@
 # ArduinoDotNet
 ArduinoDotNet is a tiny interface built to control the Arduino directly from a.Net application.
-The idea is NOT new and is NOT robust, but, it this kind of library was missing from observable web. 
+The idea is NOT new and is NOT robust, but, this library was missing from observable web and i was complled to add one.
 # The Idea
 An Arduino is integrated with the PC and controlled directly from the PC applications. Individual pins can also be read and written from the PC application. It is obvious that a specific ArduinoDotNet_Driver sketch resides on the Arduino which complements the pc interface. Other code can also go alongside this sketch but is not recommended. The PC application, after importing/using the ArdunioDotNet library, can access digitalWrite, analogueWrite, pinMode etc right from the dot net environment. These functions do the necessary communication with the Arduino to implement the same function within the Arduino and to return the values, if necessary. This way, we have digitalWrite, analogueWrite etc. functions within our C# (C Sharp), VB (Visual basic) or other .net languages.
 # The Story 
