@@ -1,0 +1,9 @@
+C:\Users\umar.hassan\Documents\Visual Studio 2015\Projects\ArduinoSharp\ArduinoSharp\obj\Debug\ArduinoSharp.csprojResolveAssemblyReference.cache
+C:\Users\umar.hassan\Documents\Visual Studio 2015\Projects\ArduinoSharp\ArduinoSharp\obj\Debug\ArduinoSharp.TestForm.resources
+C:\Users\umar.hassan\Documents\Visual Studio 2015\Projects\ArduinoSharp\ArduinoSharp\obj\Debug\ArduinoSharp.Properties.Resources.resources
+C:\Users\umar.hassan\Documents\Visual Studio 2015\Projects\ArduinoSharp\ArduinoSharp\obj\Debug\ArduinoSharp.csproj.GenerateResource.Cache
+C:\Users\umar.hassan\Documents\Visual Studio 2015\Projects\ArduinoSharp\ArduinoSharp\bin\Debug\ArduinoSharpDN4_6.dll.config
+C:\Users\umar.hassan\Documents\Visual Studio 2015\Projects\ArduinoSharp\ArduinoSharp\bin\Debug\ArduinoSharpDN4_6.dll
+C:\Users\umar.hassan\Documents\Visual Studio 2015\Projects\ArduinoSharp\ArduinoSharp\bin\Debug\ArduinoSharpDN4_6.pdb
+C:\Users\umar.hassan\Documents\Visual Studio 2015\Projects\ArduinoSharp\ArduinoSharp\obj\Debug\ArduinoSharpDN4_6.dll
+C:\Users\umar.hassan\Documents\Visual Studio 2015\Projects\ArduinoSharp\ArduinoSharp\obj\Debug\ArduinoSharpDN4_6.pdb

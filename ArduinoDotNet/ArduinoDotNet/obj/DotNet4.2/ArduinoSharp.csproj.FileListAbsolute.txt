@@ -1,0 +1,9 @@
+C:\Users\umar.hassan\Documents\Visual Studio 2015\Projects\ArduinoSharp\ArduinoSharp\bin\DotNet4.2\ArduinoSharp.pdb
+C:\Users\umar.hassan\Documents\Visual Studio 2015\Projects\ArduinoSharp\ArduinoSharp\obj\DotNet4.2\ArduinoSharp.csprojResolveAssemblyReference.cache
+C:\Users\umar.hassan\Documents\Visual Studio 2015\Projects\ArduinoSharp\ArduinoSharp\obj\DotNet4.2\ArduinoSharp.TestForm.resources
+C:\Users\umar.hassan\Documents\Visual Studio 2015\Projects\ArduinoSharp\ArduinoSharp\obj\DotNet4.2\ArduinoSharp.Properties.Resources.resources
+C:\Users\umar.hassan\Documents\Visual Studio 2015\Projects\ArduinoSharp\ArduinoSharp\obj\DotNet4.2\ArduinoSharp.csproj.GenerateResource.Cache
+C:\Users\umar.hassan\Documents\Visual Studio 2015\Projects\ArduinoSharp\ArduinoSharp\obj\DotNet4.2\ArduinoSharp.pdb
+C:\Users\umar.hassan\Documents\Visual Studio 2015\Projects\ArduinoSharp\ArduinoSharp\bin\DotNet4.2\ArduinoSharp.dll.config
+C:\Users\umar.hassan\Documents\Visual Studio 2015\Projects\ArduinoSharp\ArduinoSharp\bin\DotNet4.2\ArduinoSharp.dll
+C:\Users\umar.hassan\Documents\Visual Studio 2015\Projects\ArduinoSharp\ArduinoSharp\obj\DotNet4.2\ArduinoSharp.dll

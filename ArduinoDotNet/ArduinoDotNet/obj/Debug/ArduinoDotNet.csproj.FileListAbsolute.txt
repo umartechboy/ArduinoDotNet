@@ -1,0 +1,9 @@
+C:\Users\umar.hassan\Documents\GitHub\ArduinoDotNet\ArduinoDotNet\ArduinoDotNet\bin\Debug\ArduinoSharpDN4_6.pdb
+C:\Users\umar.hassan\Documents\GitHub\ArduinoDotNet\ArduinoDotNet\ArduinoDotNet\obj\Debug\ArduinoDotNet.csprojResolveAssemblyReference.cache
+C:\Users\umar.hassan\Documents\GitHub\ArduinoDotNet\ArduinoDotNet\ArduinoDotNet\obj\Debug\ArduinoSharp.TestForm.resources
+C:\Users\umar.hassan\Documents\GitHub\ArduinoDotNet\ArduinoDotNet\ArduinoDotNet\obj\Debug\ArduinoSharp.Properties.Resources.resources
+C:\Users\umar.hassan\Documents\GitHub\ArduinoDotNet\ArduinoDotNet\ArduinoDotNet\obj\Debug\ArduinoDotNet.csproj.GenerateResource.Cache
+C:\Users\umar.hassan\Documents\GitHub\ArduinoDotNet\ArduinoDotNet\ArduinoDotNet\obj\Debug\ArduinoSharpDN4_6.pdb
+C:\Users\umar.hassan\Documents\GitHub\ArduinoDotNet\ArduinoDotNet\ArduinoDotNet\bin\Debug\ArduinoSharpDN4_6.exe.config
+C:\Users\umar.hassan\Documents\GitHub\ArduinoDotNet\ArduinoDotNet\ArduinoDotNet\bin\Debug\ArduinoSharpDN4_6.exe
+C:\Users\umar.hassan\Documents\GitHub\ArduinoDotNet\ArduinoDotNet\ArduinoDotNet\obj\Debug\ArduinoSharpDN4_6.exe
